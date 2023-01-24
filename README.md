@@ -1,5 +1,4 @@
 # what is addvirtual ?
-=============
 adding virtual host with homebrew using bash script
 
 # how to use 
